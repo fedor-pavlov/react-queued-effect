@@ -1,0 +1,26 @@
+{
+  "name": "react-queued-effect",
+  "version": "1.0.0",
+  "description": "React useQueuedEffect hook",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedor-pavlov/react-queued-effect.git"
+  },
+  "keywords": [
+    "react",
+    "queue",
+    "hook",
+    "useQueuedEffect"
+  ],
+  "author": "F.Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fedor-pavlov/react-queued-effect/issues"
+  },
+  "homepage": "https://github.com/fedor-pavlov/react-queued-effect#readme",
+  "dependencies": {
+    "react": "^16.9.0 || ^17.0.0"
+  }
+}
