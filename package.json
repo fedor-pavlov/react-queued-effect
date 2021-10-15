@@ -1,9 +1,9 @@
 {
   "name": "react-queued-effect",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "React useQueuedEffect hook",
-  "main": "index.js",
-  "scripts": { },
+  "main": "build/index.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fedor-pavlov/react-queued-effect.git"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/fedor-pavlov/react-queued-effect#readme",
   "dependencies": {
+    "@types/react": "^17.0.30",
     "react": "^16.9.0 || ^17.0.0"
   }
 }
